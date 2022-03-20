@@ -1,0 +1,25 @@
+/* Add CSS rules here! */
+.box{
+    width: 60px;
+    height: 60px;
+    background-color: lightblue;
+    border: 5px solid white;
+    text-align: center;
+  }
+  
+  li{
+    width: 100%;
+    font-size: 50px;
+    font-weight: bold
+  
+  }
+  
+  .container{
+    width: 240px;
+    border: 5px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    
+    
+  }
